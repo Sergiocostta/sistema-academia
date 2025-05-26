@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Cadastro</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Cadastro</h1>
+    {% if erro %}
+      <p style="color: red;">{{ erro }}</p>
+    {% endif %}
+    <form method="POST">
+      <input type="text" name="usuario" placeholder="Usuário" required><br><br>
+      <input type="password" name="senha" placeholder="Senha" required><br><br>
+      <select name="tipo">
+        <option value="aluno">Aluno</option>
+        <option value="admin">Administrador</option>
+      </select><br><br>
+      <button type="submit" class="button">Cadastrar</button>
+    </form>
+    <a href="/" class="button">Voltar</a>
+  </div>
+</body>
+</html>

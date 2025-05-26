@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Treinos</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Treinos Disponíveis</h1>
+    {% for treino in treinos %}
+      <div>
+        <h3>{{ treino.titulo }}</h3>
+        <p>{{ treino.descricao }}</p>
+        <img src="{{ treino.imagem }}" alt="Imagem do treino"><br><br>
+        <iframe width="300" height="200" src="{{ treino.video }}" frameborder="0" allowfullscreen></iframe>
+      </div><br>
+    {% endfor %}
+    <a href="/logout" class="button">Sair</a>
+  </div>
+</body>
+</html>
