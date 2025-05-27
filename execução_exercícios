@@ -248,6 +248,92 @@ def obter_exercicios_pernas():
             "gif": "https://makeagif.com/gif/eleva-o-p-lvica-com-barra-nxyw6h"
         }
     }
+def obter_exercicios_abdomen():
+    return {
+        "Abdominal supra no solo": {
+            "descricao": "Foca na parte superior do abdômen, ótimo para iniciantes e intermediários.",
+            "gif": "https://makeagif.com/gif/abdominal-supra-no-solo-XfQeJ7"
+        },
+        "Abdominal infra com pernas elevadas": {
+            "descricao": "Trabalha a parte inferior do abdômen, exigindo mais controle do core.",
+            "gif": "https://makeagif.com/gif/abdominal-inferior-pernas-elevadas-XyQbZI"
+        },
+        "Elevação de pernas na barra": {
+            "descricao": "Exercício avançado para abdômen inferior e oblíquos, com grande ativação muscular.",
+            "gif": "https://makeagif.com/gif/eleva-o-de-pernas-na-barra-Gtv6ax"
+        },
+        "Prancha isométrica": {
+            "descricao": "Fortalece todo o core com ênfase na estabilidade e resistência abdominal.",
+            "gif": "https://makeagif.com/gif/prancha-isometrica-abdome-forte-pbMbrP"
+        },
+        "Prancha lateral": {
+            "descricao": "Foca nos oblíquos e estabilizadores laterais do abdômen.",
+            "gif": "https://makeagif.com/gif/prancha-lateral-QfVFO2"
+        },
+        "Abdominal oblíquo (bicicleta)": {
+            "descricao": "Trabalha simultaneamente o abdômen superior, inferior e oblíquos.",
+            "gif": "https://makeagif.com/gif/abdominal-bicicleta-para-obliquos-1CcG1a"
+        },
+        "Abdominal com polia alta (cabo)": {
+            "descricao": "Permite sobrecarga no abdômen usando cabo, intensificando a contração.",
+            "gif": "https://makeagif.com/gif/abdominal-com-polia-alta-para-core-Qgq7oG"
+        },
+        "Abdominal na bola suíça": {
+            "descricao": "Aumenta a amplitude de movimento e ativa mais fibras musculares do abdômen.",
+            "gif": "https://makeagif.com/gif/abdominal-na-bola-suica-nYzSpY"
+        },
+        "Abdominal canivete (V-up)": {
+            "descricao": "Movimento explosivo que ativa o abdômen por completo.",
+            "gif": "https://makeagif.com/gif/abdominal-canivete-V-up-7CxFkz"
+        },
+        "Mountain climber (escalador)": {
+            "descricao": "Trabalha abdômen, cardio e resistência com movimentos rápidos e contínuos.",
+            "gif": "https://makeagif.com/gif/mountain-climbers-cardio-e-core-q9BPbH"
+        }
+    }
+def obter_exercicios_ombro():
+    return {
+        "Desenvolvimento com halteres": {
+            "descricao": "Trabalha todas as porções do deltoide, especialmente a anterior e lateral.",
+            "gif": "https://makeagif.com/gif/desenvolvimento-com-halteres-ombro-zcEo7b"
+        },
+        "Elevação lateral com halteres": {
+            "descricao": "Foca na parte lateral dos ombros, contribuindo para a largura.",
+            "gif": "https://makeagif.com/gif/eleva-o-lateral-com-halteres-ombros-2RrR9j"
+        },
+        "Elevação frontal com halteres": {
+            "descricao": "Trabalha principalmente a parte frontal dos deltoides.",
+            "gif": "https://makeagif.com/gif/eleva-o-frontal-com-halteres-XGcO97"
+        },
+        "Desenvolvimento militar com barra": {
+            "descricao": "Excelente para força e massa nos ombros e tríceps.",
+            "gif": "https://makeagif.com/gif/desenvolvimento-militar-com-barra-YUOeUW"
+        },
+        "Remada alta com barra": {
+            "descricao": "Ativa os deltoides laterais e o trapézio superior.",
+            "gif": "https://makeagif.com/gif/remada-alta-com-barra-pArRbz"
+        },
+        "Crucifixo invertido (posterior de ombro)": {
+            "descricao": "Foca na parte posterior dos ombros, essencial para equilíbrio muscular.",
+            "gif": "https://makeagif.com/gif/crucifixo-invertido-no-peito-aberto-posterior-nIRG7M"
+        },
+        "Desenvolvimento Arnold": {
+            "descricao": "Variação do desenvolvimento com halteres que trabalha ombro completo.",
+            "gif": "https://makeagif.com/gif/desenvolvimento-arnold-ombro-completo-o3soSy"
+        },
+        "Elevação lateral na polia baixa": {
+            "descricao": "Mantém tensão constante nos deltoides laterais durante todo o movimento.",
+            "gif": "https://makeagif.com/gif/eleva-o-lateral-na-polia-baixa-ombro-LR8E7p"
+        },
+        "Face pull (puxada para face)": {
+            "descricao": "Fortalece a parte posterior do ombro e músculos estabilizadores da escápula.",
+            "gif": "https://makeagif.com/gif/face-pull-puxada-para-face-ombro-Rb4AJ2"
+        },
+        "Desenvolvimento na máquina": {
+            "descricao": "Oferece mais estabilidade e controle, ideal para iniciantes.",
+            "gif": "https://makeagif.com/gif/desenvolvimento-na-maquina-ombros-JhUXSx"
+        }
+    }
 
 
  
