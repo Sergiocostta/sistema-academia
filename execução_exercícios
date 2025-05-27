@@ -1,0 +1,84 @@
+def obter_exercicios_peito():
+    return {
+        "Supino reto com barra": {
+            "descricao": "Exercício composto que trabalha principalmente o peitoral maior.",
+            "gif": "https://gifs.com/gif/supino-reto-com-barra-exerccio-para-peito-vJ72b8"
+        },
+        "Supino inclinado com halteres": {
+            "descricao": "Foca na parte superior do peitoral maior.",
+            "gif": "https://makeagif.com/gif/supino-inclinado-com-halteres-SwlywH"
+        },
+        "Supino declinado com barra": {
+            "descricao": "Trabalha a parte inferior do peitoral maior.",
+            "gif": "https://makeagif.com/gif/supino-declinado-com-halteres-iERytI"
+        },
+        "Crucifixo reto com halteres": {
+            "descricao": "Exercício isolado que trabalha o peitoral maior.",
+            "gif": "https://makeagif.com/gif/crucifixo-reto-com-halteres-vUF5qh"
+        },
+        "Crossover no cabo": {
+            "descricao": "Exercício isolado que trabalha o peitoral maior.",
+            "gif": "https://makeagif.com/gif/supino-conjugado-com-crucifixo-banco-reto-e-com-halteres-Kyg2UJ"
+        },
+        "Flexões de braço": {
+            "descricao": "Exercício corporal que trabalha o peitoral maior, tríceps e deltoide anterior.",
+            "gif": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+        },
+        "Peck Deck (Voador)": {
+            "descricao": "Exercício que isola o peitoral maior, focando na região medial.",
+            "gif": "https://pt.wikipedia.org/wiki/Voador"
+        },
+        "Pullover com halteres": {
+            "descricao": "Exercício que trabalha o peitoral maior e os músculos das costas.",
+            "gif": "https://lottiefiles.com/pt/animation/woman-doing-dumbbell-bench-pullover-exercise-13441482"
+        },
+        "Dips (Mergulho)": {
+            "descricao": "Exercício de peso corporal que trabalha o peitoral maior, tríceps e deltoide anterior.",
+            "gif": "https://www.youtube.com/watch?v=2z8JmcrW-As"
+        },
+        "Flexões com pés elevados": {
+    "descricao": "Variação das flexões tradicionais que aumenta a intensidade, focando mais no peitoral superior.",
+    "gif": "https://www.youtube.com/watch?v=Zl5g0C"
+}
+
+def obter_exercicios_triceps():
+    return { 
+      "Triceps Press-Up": {
+            "descricao": "Versão do push-up com as mãos mais próximas, enfatizando o trabalho dos tríceps.",
+            "gif": "https://animatedexercisegif.com/tricep-press-up/"
+        },
+        "Triceps Kickback com Halteres": {
+            "descricao": "Exercício isolado que trabalha os tríceps, realizado com halteres.",
+            "gif": "https://makeagif.com/gif/triceps-kickback-exercise-using-dumbbells-5h0Iu5"
+        },
+        "Triceps Pushdown com Corda": {
+            "descricao": "Exercício realizado em máquina de cabo, utilizando a corda para maior amplitude de movimento.",
+            "gif": "https://animatedexercisegif.com/seated-tricep-push-down/"
+        },
+        "Triceps Dips": {
+            "descricao": "Exercício de peso corporal que trabalha os tríceps, realizado em barras paralelas ou banco.",
+            "gif": "https://makeagif.com/gif/triceps-dips-exercise-using-parallel-bars-5h0Iu5"
+        },
+        "Single Arm Tricep Extension com Halteres": {
+            "descricao": "Extensão de tríceps unilateral, realizada com halteres, focando em um braço por vez.",
+            "gif": "https://animatedexercisegif.com/single-arm-tricep-extension/"
+        },
+        "Overhead Tricep Extension com Halteres": {
+            "descricao": "Extensão de tríceps acima da cabeça, realizada com halteres, trabalhando os três músculos do tríceps.",
+            "gif": "https://makeagif.com/gif/overhead-triceps-extension-using-dumbbell-5h0Iu5"
+        },
+        "Triceps Cable Kickback": {
+            "descricao": "Versão do triceps kickback realizada em máquina de cabo, permitindo maior controle do movimento.",
+            "gif": "https://makeagif.com/gif/triceps-cable-kickback-exercise-5h0Iu5"
+        },
+        "Close-Grip Bench Press": {
+            "descricao": "Variante do supino com as mãos mais próximas, enfatizando o trabalho dos tríceps.",
+            "gif": "https://makeagif.com/gif/close-grip-bench-press-exercise-5h0Iu5"
+        },
+        "Diamond Push-Up": {
+            "descricao": "Variante do push-up com as mãos formando um diamante, focando nos tríceps.",
+            "gif": "https://makeagif.com/gif/diamond-push-up-exercise-5h0I
+::contentReference[oaicite:37]{index=37}
+ 
+
+ 
