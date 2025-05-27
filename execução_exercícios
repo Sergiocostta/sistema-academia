@@ -78,7 +78,179 @@ def obter_exercicios_triceps():
         "Diamond Push-Up": {
             "descricao": "Variante do push-up com as mãos formando um diamante, focando nos tríceps.",
             "gif": "https://makeagif.com/gif/diamond-push-up-exercise-5h0I
-::contentReference[oaicite:37]{index=37}
+
+}
+def obter_exercicios_costas():
+    return {
+        "Puxada frontal na polia alta": {
+            "descricao": "Foca no latíssimo do dorso, simulando a barra fixa.",
+            "gif": "https://makeagif.com/gif/puxada-frontal-na-polia-alta-mYwppd"
+        },
+        "Remada curvada com barra": {
+            "descricao": "Exercício composto que trabalha toda a musculatura das costas.",
+            "gif": "https://makeagif.com/gif/remada-curvada-com-barra-bkpjDR"
+        },
+        "Remada unilateral com halteres": {
+            "descricao": "Isola os dorsais, promovendo um trabalho unilateral.",
+            "gif": "https://makeagif.com/gif/remada-unilateral-com-halteres-Qyn7fe"
+        },
+        "Barra fixa (pegada pronada)": {
+            "descricao": "Exercício de peso corporal que ativa fortemente os dorsais.",
+            "gif": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+        },
+        "Remada baixa na polia": {
+            "descricao": "Trabalha dorsais, romboides e trapézio.",
+            "gif": "https://makeagif.com/gif/remada-baixa-na-polia-4kYgwj"
+        },
+        "Levantamento terra": {
+            "descricao": "Um dos exercícios mais completos, ativa costas, glúteos e pernas.",
+            "gif": "https://makeagif.com/gif/levantamento-terra-com-barra-X9vPHq"
+        },
+        "Pulldown com pegada fechada": {
+            "descricao": "Variação do puxador que trabalha a parte interna das costas.",
+            "gif": "https://makeagif.com/gif/pulldown-pegada-fechada-zgY7BZ"
+        },
+        "Good morning": {
+            "descricao": "Fortalece a lombar e estabilizadores da coluna.",
+            "gif": "https://makeagif.com/gif/good-morning-exercise-bZKDqA"
+        },
+        "Face pull (cabo)": {
+            "descricao": "Foca nos deltoides posteriores e trapézio, auxiliando na postura.",
+            "gif": "https://makeagif.com/gif/face-pull-tGY2eR"
+        },
+        "Superman": {
+            "descricao": "Exercício de solo que fortalece a lombar e glúteos.",
+            "gif": "https://www.youtube.com/watch?v=z6PJMT2y8GQ"
+        }
+    }
+def obter_exercicios_biceps():
+    return {
+        "Rosca direta com barra": {
+            "descricao": "Exercício básico e eficaz para trabalhar o bíceps braquial.",
+            "gif": "https://makeagif.com/gif/rosca-direta-com-barra-vJP_0S"
+        },
+        "Rosca alternada com halteres": {
+            "descricao": "Trabalha cada braço individualmente, melhorando equilíbrio e coordenação.",
+            "gif": "https://makeagif.com/gif/rosca-alternada-com-halteres-OG_2iW"
+        },
+        "Rosca concentrada": {
+            "descricao": "Isola o bíceps, permitindo maior controle e contração muscular.",
+            "gif": "https://makeagif.com/gif/rosca-concentrada-com-halter-YY3Mgy"
+        },
+        "Rosca martelo": {
+            "descricao": "Trabalha o braquiorradial e a parte lateral do bíceps.",
+            "gif": "https://makeagif.com/gif/rosca-martelo-com-halteres-dz7ZsG"
+        },
+        "Rosca no banco Scott": {
+            "descricao": "Ajuda a manter a postura e isola bem o bíceps.",
+            "gif": "https://makeagif.com/gif/rosca-no-banco-scott-XODlbC"
+        },
+        "Rosca inversa com barra": {
+            "descricao": "Foca nos músculos do antebraço e parte inferior do bíceps.",
+            "gif": "https://makeagif.com/gif/rosca-inversa-com-barra-Xm7gH4"
+        },
+        "Rosca na polia baixa (cabo)": {
+            "descricao": "Mantém tensão constante durante todo o movimento.",
+            "gif": "https://makeagif.com/gif/rosca-na-polia-baixa-EZP7Xx"
+        },
+        "21 (rosca em 3 fases)": {
+            "descricao": "Série de 3 variações seguidas que ativa o bíceps intensamente.",
+            "gif": "https://makeagif.com/gif/rosca-21-3-fases-VUKTHR"
+        },
+        "Rosca com corda na polia": {
+            "descricao": "Variação que adiciona rotação ao final do movimento.",
+            "gif": "https://makeagif.com/gif/rosca-com-corda-na-polia-VyxLfZ"
+        },
+        "Chin-up (barra fixa, pegada supinada)": {
+            "descricao": "Exercício de peso corporal que ativa fortemente o bíceps e costas.",
+            "gif": "https://www.youtube.com/watch?v=b-ztMQpj8yc"
+        }
+    }
+def obter_exercicios_pernas():
+    return {
+        "Agachamento livre com barra": {
+            "descricao": "Exercício composto que trabalha quadríceps, glúteos e posteriores de coxa.",
+            "gif": "https://makeagif.com/gif/agachamento-com-barra-b9y9zG"
+        },
+        "Agachamento com halteres": {
+            "descricao": "Variação do agachamento usando halteres para aumentar a resistência.",
+            "gif": "https://makeagif.com/gif/agachamento-com-halteres-6V5V3O"
+        },
+        "Agachamento no Smith": {
+            "descricao": "Exercício guiado que facilita a execução com maior segurança.",
+            "gif": "https://makeagif.com/gif/agachamento-no-smith-66xElK"
+        },
+        "Leg Press 45°": {
+            "descricao": "Máquina que trabalha principalmente quadríceps, glúteos e posteriores.",
+            "gif": "https://makeagif.com/gif/leg-press-45-pra-pernas-VWyXeq"
+        },
+        "Cadeira extensora": {
+            "descricao": "Isola o quadríceps com resistência controlada.",
+            "gif": "https://makeagif.com/gif/cadeira-extensora-QAtEVD"
+        },
+        "Mesa flexora": {
+            "descricao": "Isola os músculos posteriores da coxa.",
+            "gif": "https://makeagif.com/gif/mesa-flexora-para-posterior-de-coxa-qQYtJw"
+        },
+        "Cadeira adutora": {
+            "descricao": "Trabalha os músculos adutores da coxa (parte interna).",
+            "gif": "https://makeagif.com/gif/cadeira-adutora-treino-de-pernas-KugXyf"
+        },
+        "Cadeira abdutora": {
+            "descricao": "Trabalha os músculos abdutores (parte lateral do quadril).",
+            "gif": "https://makeagif.com/gif/cadeira-abdutora-para-gluteos-36GAU6"
+        },
+        "Avanço com halteres": {
+            "descricao": "Trabalha quadríceps, glúteos e equilíbrio.",
+            "gif": "https://makeagif.com/gif/avan-o-afundo-com-halteres-o7mHft"
+        },
+        "Avanço com barra": {
+            "descricao": "Mais instável que com halteres, exigindo maior controle.",
+            "gif": "https://makeagif.com/gif/afundo-com-barra-qdVuZT"
+        },
+        "Passada no Smith": {
+            "descricao": "Afundo guiado com barra, bom para iniciantes.",
+            "gif": "https://makeagif.com/gif/passada-no-smith-machine-DHuhCW"
+        },
+        "Stiff com halteres": {
+            "descricao": "Foca nos posteriores de coxa e glúteos com maior controle.",
+            "gif": "https://makeagif.com/gif/stiff-com-halteres-9DEi8t"
+        },
+        "Stiff com barra": {
+            "descricao": "Versão com barra que exige maior estabilidade do core.",
+            "gif": "https://makeagif.com/gif/stiff-com-barra-XvbBLN"
+        },
+        "Agachamento sumô com halter": {
+            "descricao": "Variação do agachamento que foca em glúteos e internos de coxa.",
+            "gif": "https://makeagif.com/gif/agachamento-sumo-com-halter-Id8u1z"
+        },
+        "Panturrilha no leg press": {
+            "descricao": "Trabalha a panturrilha com maior carga controlada.",
+            "gif": "https://makeagif.com/gif/panturrilha-no-leg-press-6o9NHi"
+        },
+        "Elevação de panturrilha em pé": {
+            "descricao": "Exercício básico para a parte posterior da perna.",
+            "gif": "https://makeagif.com/gif/eleva-o-de-panturrilha-em-p-NR9mJ5"
+        },
+        "Agachamento búlgaro": {
+            "descricao": "Desafiador para quadríceps, glúteos e equilíbrio.",
+            "gif": "https://makeagif.com/gif/agachamento-bulgaro-pra-gluteos-F9KX3F"
+        },
+        "Cadeira flexora unilateral": {
+            "descricao": "Versão unilateral da mesa flexora, melhora equilíbrio muscular.",
+            "gif": "https://makeagif.com/gif/cadeira-flexora-unilateral-YTYEXR"
+        },
+        "Glute bridge com barra": {
+            "descricao": "Excelente para ativação dos glúteos e posteriores.",
+            "gif": "https://makeagif.com/gif/glute-bridge-hip-thrust-KRwcdq"
+        },
+        "Elevação pélvica com peso": {
+            "descricao": "Semelhante ao hip thrust, pode ser feito com barra ou halter.",
+            "gif": "https://makeagif.com/gif/eleva-o-p-lvica-com-barra-nxyw6h"
+        }
+    }
+
+
  
 
  
