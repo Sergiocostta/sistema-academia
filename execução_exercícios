@@ -40,7 +40,6 @@ def obter_exercicios_peito():
     "descricao": "Variação das flexões tradicionais que aumenta a intensidade, focando mais no peitoral superior.",
     "gif": "https://www.youtube.com/watch?v=Zl5g0C"
 }
-
 def obter_exercicios_triceps():
     return { 
       "Triceps Press-Up": {
