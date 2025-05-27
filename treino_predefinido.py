@@ -93,4 +93,36 @@ treino_costa_biceps = {
         }
     ]
 }
+    treino_perna = [
+        {
+            "exercicio": "Agachamento livre com barra",
+            "descricao": "Exercício composto essencial que ativa quadríceps, glúteos e posteriores de coxa. Ideal para ganho de força e massa muscular.",
+            "gif": "https://makeagif.com/gif/agachamento-com-barra-b9y9zG"
+        },
+        {
+            "exercicio": "Leg Press 45°",
+            "descricao": "Trabalha intensamente quadríceps, glúteos e posteriores com estabilidade e controle. Permite o uso de cargas elevadas.",
+            "gif": "https://makeagif.com/gif/leg-press-45-pra-pernas-VWyXeq"
+        },
+        {
+            "exercicio": "Cadeira extensora",
+            "descricao": "Isola o músculo quadríceps, excelente para aquecimento ou finalização do treino.",
+            "gif": "https://makeagif.com/gif/cadeira-extensora-QAtEVD"
+        },
+        {
+            "exercicio": "Mesa flexora",
+            "descricao": "Foca nos músculos posteriores da coxa. Importante para equilíbrio entre frente e trás das pernas.",
+            "gif": "https://makeagif.com/gif/mesa-flexora-para-posterior-de-coxa-qQYtJw"
+        },
+        {
+            "exercicio": "Avanço com halteres",
+            "descricao": "Trabalha quadríceps, glúteos e panturrilhas, exigindo equilíbrio e controle do movimento.",
+            "gif": "https://makeagif.com/gif/avan-o-afundo-com-halteres-o7mHft"
+        },
+        {
+            "exercicio": "Panturrilha no leg press",
+            "descricao": "Foca no desenvolvimento da panturrilha, permitindo sobrecarga com segurança.",
+            "gif": "https://makeagif.com/gif/panturrilha-no-leg-press-6o9NHi"
+        }   
+        
 
