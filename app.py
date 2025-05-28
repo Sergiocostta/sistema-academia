@@ -9,17 +9,29 @@ app.secret_key = 'segredo'
 @app.route('/cadastro', methods=['GET', 'POST'])
 def cadastro():
     if request.method == 'POST':
-        usuario = request.form['usuario']
+        usuario = request.form['usuario'].strip()  
         senha = request.form['senha']
         tipo = request.form['tipo']
+
+        if len(usuario) == 0:
+            return render_template("cadastro.html", erro="Usuário não pode ser vazio ou só espaços.")
+        
+        if len(senha) < 6:
+            return render_template("cadastro.html", erro="A senha deve ter no mínimo 6 caracteres.")
+        
         usuarios = carregar_usuarios()
+
         for u in usuarios:
-            if u['usuario'] == usuario:
+            if u['usuario'].lower() == usuario.lower():
                 return render_template("cadastro.html", erro="Usuário já existe.")
+
         usuarios.append({'usuario': usuario, 'senha': senha, 'tipo': tipo})
+
         with open("usuarios.json", "w") as f:
             json.dump(usuarios, f, indent=2)
+
         return redirect(url_for('login'))
+
     return render_template("cadastro.html")
 
 def carregar_usuarios():
