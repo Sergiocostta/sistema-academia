@@ -6,6 +6,10 @@ import json
 app = Flask(__name__)
 app.secret_key = 'segredo'
 
+#@app.route("/")
+#def inicio():
+#    return render_template("inicio.html")
+
 @app.route('/cadastro', methods=['GET', 'POST'])
 def cadastro():
     if request.method == 'POST':
