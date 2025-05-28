@@ -39,7 +39,8 @@ def obter_exercicios_peito():
         "Flexões com pés elevados": {
     "descricao": "Variação das flexões tradicionais que aumenta a intensidade, focando mais no peitoral superior.",
     "gif": "https://www.youtube.com/watch?v=Zl5g0C"
-}
+        }
+    }
 def obter_exercicios_triceps():
     return { 
       "Triceps Press-Up": {
@@ -76,9 +77,9 @@ def obter_exercicios_triceps():
         },
         "Diamond Push-Up": {
             "descricao": "Variante do push-up com as mãos formando um diamante, focando nos tríceps.",
-            "gif": "https://makeagif.com/gif/diamond-push-up-exercise-5h0I
-
-}
+            "gif": "https://makeagif.com/gif/diamond-push-up-exercise-5h0I"
+        }
+    }
 def obter_exercicios_costas():
     return {
         "Puxada frontal na polia alta": {
@@ -334,7 +335,6 @@ def obter_exercicios_ombro():
             "gif": "https://makeagif.com/gif/desenvolvimento-na-maquina-ombros-JhUXSx"
         }
     }
-
 
  
 
