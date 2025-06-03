@@ -1,0 +1,59 @@
+treino_funcional = {
+    "titulo": "Treino Funcional de Corpo Inteiro",
+    "descricao": "Treinamento funcional para fortalecimento global, coordenação, equilíbrio e mobilidade.",
+    "series": "3x40s de execução + 20s de descanso",
+    "exercicios": [
+        {
+            "nome": "Agachamento com Halteres",
+            "descricao": "Agache segurando halteres ao lado do corpo, mantendo as costas retas.",
+            "video": "https://www.exemplo.com/videos/agachamento_halteres.gif"
+        },
+        {
+            "nome": "Flexão com Toque no Ombro",
+            "descricao": "Após cada flexão, toque o ombro oposto com a mão alternada.",
+            "video": "https://www.exemplo.com/videos/flexao_toque_ombro.gif"
+        },
+        {
+            "nome": "Estocada com Rotação de Tronco",
+            "descricao": "Dê um passo à frente e gire o tronco para o lado da perna da frente segurando um peso leve.",
+            "video": "https://www.exemplo.com/videos/estocada_rotacao.gif"
+        },
+        {
+            "nome": "Prancha com Abertura de Braço",
+            "descricao": "Na posição de prancha, abra um braço lateralmente e volte à posição inicial, alternando os lados.",
+            "video": "https://www.exemplo.com/videos/prancha_abertura_braco.gif"
+        },
+        {
+            "nome": "Corrida Lateral com Toque no Chão",
+            "descricao": "Corra lateralmente 2 passos e toque o chão com a mão externa, repetindo o movimento para o outro lado.",
+            "video": "https://www.exemplo.com/videos/corrida_lateral_toque.gif"
+        }
+    ]
+}
+treino_funcional["exercicios"].extend([
+    {
+        "nome": "Ponte de Glúteo Unilateral",
+        "descricao": "Deite de costas, eleve o quadril com uma perna estendida enquanto a outra fica flexionada.",
+        "video": "https://www.exemplo.com/videos/ponte_gluteo_unilateral.gif"
+    },
+    {
+        "nome": "Abdominal Escalador",
+        "descricao": "Deite de costas, eleve o tronco e leve o cotovelo ao joelho oposto de forma alternada.",
+        "video": "https://www.exemplo.com/videos/abdominal_escalador.gif"
+    },
+    {
+        "nome": "Remada Curvada com Halteres",
+        "descricao": "Com o tronco levemente inclinado, puxe os halteres em direção ao abdômen e retorne.",
+        "video": "https://www.exemplo.com/videos/remada_curvada.gif"
+    },
+    {
+        "nome": "Saltos Laterais com Agachamento",
+        "descricao": "Salte lateralmente e caia em agachamento, mantendo a estabilidade.",
+        "video": "https://www.exemplo.com/videos/saltos_laterais_agachamento.gif"
+    },
+    {
+        "nome": "Círculo com Joelhos",
+        "descricao": "De pé, eleve os joelhos formando círculos com as pernas para ativar quadris e core.",
+        "video": "https://www.exemplo.com/videos/circulo_joelhos.gif"
+    }
+])
