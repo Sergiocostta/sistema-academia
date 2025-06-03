@@ -1,0 +1,32 @@
+treino_aerobico = {
+    "titulo": "Treino Aeróbico de Resistência e Condicionamento",
+    "descricao": "Treino focado na melhora da capacidade cardiovascular, resistência física e queima calórica.",
+    "series": "3x30s a 1min",
+    "exercicios": [
+        {
+            "nome": "Corrida Estacionária",
+            "descricao": "Simule corrida no lugar, com joelhos altos e movimento de braços.",
+            "video": "https://www.exemplo.com/videos/corrida_estacionaria.gif"
+        },
+        {
+            "nome": "Polichinelos",
+            "descricao": "Salte abrindo pernas e braços simultaneamente, mantendo ritmo contínuo.",
+            "video": "https://www.exemplo.com/videos/polichinelo.gif"
+        },
+        {
+            "nome": "Burpees",
+            "descricao": "A partir da posição em pé, desça ao chão, faça uma flexão e salte para cima.",
+            "video": "https://www.exemplo.com/videos/burpee.gif"
+        },
+        {
+            "nome": "Mountain Climbers",
+            "descricao": "Em posição de prancha, alterne as pernas rapidamente como se estivesse subindo.",
+            "video": "https://www.exemplo.com/videos/mountain_climbers.gif"
+        },
+        {
+            "nome": "Agachamento com Salto",
+            "descricao": "Agache e, ao subir, dê um pequeno salto com impulso.",
+            "video": "https://www.exemplo.com/videos/agachamento_salto.gif"
+        }
+    ]
+}
