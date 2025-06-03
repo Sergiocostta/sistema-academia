@@ -30,3 +30,29 @@ treino_aerobico = {
         }
     ]
 }
+ {
+        "nome": "Corrida Lateral",
+        "descricao": "Corra lateralmente por alguns passos e toque o chão com a mão oposta, repetindo o movimento alternado.",
+        "video": "https://www.exemplo.com/videos/corrida_lateral.gif"
+    },
+    {
+        "nome": "Skater Jump",
+        "descricao": "Salte lateralmente de uma perna para outra como um patinador, mantendo o equilíbrio.",
+        "video": "https://www.exemplo.com/videos/skater_jump.gif"
+    },
+    {
+        "nome": "Jumping Lunges",
+        "descricao": "Alterne as pernas no ar em um movimento de avanço com salto, mantendo o tronco ereto.",
+        "video": "https://www.exemplo.com/videos/jumping_lunges.gif"
+    },
+    {
+        "nome": "Alpinista Cruzado",
+        "descricao": "Na posição de prancha, leve o joelho direito ao cotovelo esquerdo e alterne rapidamente.",
+        "video": "https://www.exemplo.com/videos/alpinista_cruzado.gif"
+    },
+    {
+        "nome": "High Knees com Braços Acima",
+        "descricao": "Corra no lugar levantando bem os joelhos com os braços estendidos acima da cabeça.",
+        "video": "https://www.exemplo.com/videos/high_knees_bracos.gif"
+    }
+])
